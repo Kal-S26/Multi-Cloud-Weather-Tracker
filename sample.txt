@@ -1,1 +1,0 @@
-echo "Hello from Terraform S3 upload" > sample.txt
